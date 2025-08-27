@@ -1,4 +1,4 @@
-<p align="center"><img src="https://massgrave.dev/img/logo_small.png" alt="MAS Logo"></p>
+<p align="center"><img src="https://freeimage.host/i/K27z6Gt" alt="MAS Logo"></p>
 
 <h1 align="center">Microsoft  Activation  Scripts (MAS)</h1>
 
@@ -129,3 +129,4 @@ Release date: 10-Aug-2025
 ---
 
 <p align="center">Made with Love ❤️</p>
+
