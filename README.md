@@ -1,6 +1,6 @@
 <p align="center"><img src="https://iili.io/K2774Og.png" alt="Subh Profile"></p>
 
-<h1 align="center">Microsoft  Activation  Scripts (MAS)</h1>
+<h1 align="center">Microsoft  Activation  Scripts </h1>
 
 <p align="center">Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.</p>
 
@@ -129,6 +129,7 @@ Release date: 10-Aug-2025
 ---
 
 <p align="center">Made with Love ❤️</p>
+
 
 
 
